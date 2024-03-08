@@ -16,6 +16,8 @@
   ## Usage
   Use through the database to manage inventory.
 
+  https://drive.google.com/file/d/1OCk4PjeZWZ0syHbW4ivydnQoQhbfdKfv/view
+
   
   ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
